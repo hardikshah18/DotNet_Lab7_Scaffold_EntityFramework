@@ -1,0 +1,1 @@
+# DotNet_Lab7_Scaffold_EntityFramework
